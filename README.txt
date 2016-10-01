@@ -1,3 +1,3 @@
 sample
 
-This project will help Treehouse students learn about working with Git repositories.
+This project will help Treehouse hi  students learn about working with Git say repositories.
